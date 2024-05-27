@@ -23,7 +23,7 @@ My name is Daniela, and I am a graduate student in software engineering at the <
 
 This is my new user because I lost access to my previous one, to access my old projects go to: 
 
-[![Github Badge](https://img.shields.io/badge/-daniso123-black?style=flat-square&logo=Github&logoColor=white&link=mailto:https://github.com/daniso123)](https://github.com/daniso123)
+[![Github Badge](https://img.shields.io/badge/-daniso0412-black?style=flat-square&logo=Github&logoColor=white&link=mailto:https://github.com/daniso123)](https://github.com/daniso0412)
 
 ## 👩‍💻 Languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
