@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there, everything good? 👋
 
-My name is Daniela, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB). I'm  Front End developer, but I can manage with brack end too. I am always open to collaborating on projects, ideas and everything that interests me. Find out more about me and feel free to connect with me here:
+My name is Daniela, and I am a graduate student in software engineering at the <a style="text-decoration:none;" href="http://www.unb.br">University of Brasilia</a> (UNB). I'm  FullStack developer and passionate about machine learning. I am always open to collaborating on projects, ideas and everything that interests me. Find out more about me and feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-dani_so_o_-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/daniela-soares-de-oliveira-b994bb1b3/)](https://www.linkedin.com/in/daniela-soares-de-oliveira-b994bb1b3/)
 [![Instagram Badge](https://img.shields.io/badge/-dani_so_o_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/dani_so_o_/)](https://www.instagram.com/dani_so_o_/)
